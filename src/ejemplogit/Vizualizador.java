@@ -5,7 +5,7 @@
 package ejemplogit;
 
 /**
- *
+ *Esta es la clase para vizualizar resultados
  * @author arias
  */
 public class Vizualizador {
